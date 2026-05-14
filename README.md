@@ -1,4 +1,3 @@
-[README.txt](https://github.com/user-attachments/files/27764720/README.txt)
 NorthStar Dataset
 
 This dataset includes:
